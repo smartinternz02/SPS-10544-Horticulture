@@ -1,5 +1,5 @@
 # SPS-10544-Horticulture
-Horticulture
+
 <h1> Project Title </h1> <br>
 <h3>HORTICULTURE - ANALYSIS OF AREA PRODUCTION AND PRODUCTIVITY OF SPICES FROM 2008 – 2011</h2> <br>
 <h1> Project Description </h1> <br>
